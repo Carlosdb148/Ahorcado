@@ -1,0 +1,1 @@
+var teclado = new game.Play();
